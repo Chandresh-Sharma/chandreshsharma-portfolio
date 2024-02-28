@@ -3,8 +3,8 @@
     "id": 0,
     "name": "Freelance Fullstack Developer",
     "nameFR": "Développeur Fullstack",
-    "url": "https://www.7webconsulting.com/",
-    "description": "Live slideshow for events such as weddings or birthdays",
+    "url": "https://www.freelancer.com/",
+    "description": "Oversaw full-cycle development of numerous projects, ensuring punctual delivery and client contentment.",
     "descriptionFR": "Diaporama live pour des événements tels que mariages ou anniversaires",
     "image": "https://i.imgur.com/ploulit.png",
     "alt": "7web logo"
@@ -13,10 +13,10 @@
     "id": 1,
     "name": "Fullstack Developer",
     "nameFR": "Développeur Fullstack",
-    "url": "https://www.sfeir.com/",
+    "url": "https://www.codespur.com/",
     "description": "Developed services on several client projects",
     "descriptionFR": "Développement de services pour plusieurs projets clients",
-    "image": "https://i.imgur.com/mJhjpFH.jpg",
+    "image": "https://i.imgur.com/83puyOe.png",
     "alt": "SFEIR logo"
   }
 ]

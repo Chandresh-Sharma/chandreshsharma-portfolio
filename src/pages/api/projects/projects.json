@@ -1,22 +1,23 @@
 [
   {
-    "id": 7,
-    "name": "WedStream",
-    "nameFR": "WedStream",
-    "description": "Web application to provide images for a live slideshow during weddings and other events",
-    "descriptionFR": "Application web permettant de fournir des images pour un diaporama en direct lors de mariages et autres événements",
-    "image": "https://i.imgur.com/rqShhY6.png",
-    "alt": "Wedstream dashboard",
-    "tags": ["react", "gatsby", "typescript", "firebase", "gcp", "material-ui"]
+    "id": 1,
+    "name": "QuizIT",
+    "nameFR": "QuizIT",
+    "description": "Created a quiz application allowing users to create and participate in quizzes, with real-time scoring functionality",
+    "descriptionFR": "Created a quiz application allowing users to create and participate in quizzes, with real-time scoring functionality",
+    "image": "https://i.imgur.com/5LGbLnv.png",
+    "alt": "Icon",
+    "tags": ["react", "gatsby", "typescript", "firebase", "gcp", "material-ui"],
+    "url": "https://github.com/Chandresh-Sharma/QuizIT"
   },
   {
-    "id": 7,
-    "name": "Bizkiz",
-    "nameFR": "Bizkiz",
-    "description": "Tool to centralize business cases and be able to share them easily with clients",
-    "descriptionFR": "Outil permettant de centraliser les business cases et de pouvoir les partager facilement avec les clients",
-    "image": "https://i.imgur.com/ZJ4Tkuu.png",
-    "alt": "Bizkiz dashboard",
+    "id": 2,
+    "name": "Geo Tagging of privately owned camera",
+    "nameFR": "Geo Tagging of privately owned camera",
+    "description": "Implemented a feature allowing users to register details of privately owned cameras, accessible to police via a map interface for situational awareness.",
+    "descriptionFR": "Implemented a feature allowing users to register details of privately owned cameras, accessible to police via a map interface for situational awareness.",
+    "image": "https://i.imgur.com/hzo8F9e.png",
+    "alt": "Landing Page",
     "tags": [
       "next",
       "typescript",
@@ -25,16 +26,17 @@
       "terraform",
       "docker",
       "material-ui"
-    ]
+    ],
+    "url": "https://github.com/Chandresh-Sharma/RJPOLICE_HACK_303_Decompiler_6"
   },
   {
-    "id": 1,
-    "name": "Insight",
-    "nameFR": "Insight",
-    "description": "Built for Sfeir clients to keep an eye on the KPI of their projects",
-    "descriptionFR": "Conçu pour les clients Sfeir afin de suivre l'évolution des KPI de leurs projets",
-    "image": "https://i.imgur.com/2g7luWF.png",
-    "alt": "Insight dashboard",
+    "id": 3,
+    "name": "Machine Learning Project over AWS",
+    "nameFR": "Machine Learning Project over AWS",
+    "description": "Integrated a machine learning module designed to recognize hands and detect the number of extended fingers. ",
+    "descriptionFR": "Integrated a machine learning module designed to recognize hands and detect the number of extended fingers. ",
+    "image": "https://i.imgur.com/bMojOPf.png",
+    "alt": "Image for representation",
     "tags": [
       "next",
       "redux",
@@ -43,56 +45,18 @@
       "gcp",
       "terraform",
       "material-ui"
-    ]
-  },
-  {
-    "id": 2,
-    "name": "Tambour Horizon Light Up",
-    "nameFR": "Tambour Horizon Light Up",
-    "description": "Backend development of the LV Smartwatch",
-    "descriptionFR": "Développement backend de la montre connectée Louis Vuitton",
-    "image": "https://i.imgur.com/UlZZ0i5.jpg",
-    "alt": "Tambour Horizon Light Up",
-    "tags": ["node", "express", "vue", "gcp", "heroku", "aws", "redis", "psql"]
-  },
-  {
-    "id": 3,
-    "name": "TotalEnergies Solar Mapper",
-    "nameFR": "TotalEnergies Solar Mapper",
-    "description": "Google Earth Engine based tool to estimate the solar potential of people's residence",
-    "descriptionFR": "Outil basé sur Google Earth Engine servant à estimer le potentiel solaire des résidences",
-    "image": "https://i.imgur.com/KeTnrfU.jpg",
-    "alt": "TotalEnergies Solar Mapper map",
-    "tags": ["react", "typescript", "redux", "google-earth", "google-maps"]
+    ],
+    "url": "https://github.com/Chandresh-Sharma/Linux_world_ML_AWS_Training"
   },
   {
     "id": 4,
-    "name": "Le Cèdre",
-    "nameFR": "Le Cèdre",
-    "description": "Built for Le Cèdre affiliates to get market recommandations",
-    "descriptionFR": "Conçu pour les affiliés Le Cèdre afin de recevoir des recommandations de marché",
-    "image": "https://i.imgur.com/T39Xq44.jpg",
-    "alt": "Le Cèdre logo",
-    "tags": ["angular", "typescript", "redux", "cypress"]
-  },
-  {
-    "id": 5,
-    "name": "Selligent Monitoring System",
-    "nameFR": "Selligent Monitoring System",
-    "description": "Built for marketers who wish to get alerted on their failed campaigns",
-    "descriptionFR": "Conçu pour les marketeurs qui souhaitent être alertés sur leurs campagnes échouées",
-    "image": "https://i.imgur.com/CbNRUVf.png",
-    "alt": "Example of a Selligent Monitoring System's alert",
-    "tags": ["selligent", "html", "css"]
-  },
-  {
-    "id": 6,
-    "name": "Github Portfolio",
-    "nameFR": "Github Portfolio",
-    "description": "Developed to display my resume online",
-    "descriptionFR": "Développé pour afficher mon profil en ligne",
-    "image": "https://i.imgur.com/zcHpLC5.png",
-    "alt": "Portfolio's screenshot",
-    "tags": ["next", "firebase", "tailwindcss"]
+    "name": "More Projects",
+    "nameFR": "More projects",
+    "description": "More Projects on my github account",
+    "descriptionFR": "More Projects on my github account",
+    "image": "https://i.imgur.com/UlZZ0i5.jpg",
+    "alt": "Tambour Horizon Light Up",
+    "tags": [""],
+    "url": "https://github.com/Chandresh-Sharma?tab=repositories"
   }
 ]
