@@ -141,6 +141,18 @@ export const AboutMe = ({ user, Text }) => {
 
 
 
+        <div className="border-b mt-2 border-gray-900"></div>
+
+        <div className="w-full flex flex-wrap flex-row justify-center my-5">
+        <a href="/Chandresh_sharma-resume.pdf" target="_blank">
+          <h1 className="text-gray-300 font-semibold text-2xl mt-3 text-center lg:text-left">
+          <Text tid="Resume" />
+          </h1>
+        </a>
+        </div>
+
+
+
         
       </section>
     </div>
