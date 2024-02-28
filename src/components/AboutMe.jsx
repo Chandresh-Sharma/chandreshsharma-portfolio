@@ -1,5 +1,3 @@
-import { Icons } from "./Icons";
-
 export const AboutMe = ({ user, Text }) => {
   return (
     <div>
