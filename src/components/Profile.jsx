@@ -7,7 +7,7 @@ export const Profile = ({ user, Text }) => {
         </p>
         <img
           className="mb-2"
-          src="https://i.imgur.com/EG4xiqk.png"
+          src="https://i.imgur.com/EhesUHt.png"
           alt="Chandresh-banner"
         />
         <p align="center">
